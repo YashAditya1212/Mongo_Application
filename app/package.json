@@ -1,0 +1,14 @@
+{
+  "name": "user-profile-app",
+  "version": "1.0.0",
+  "description": "Simple user profile app - Docker learning project (Nana's version)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.17.0",
+    "body-parser": "^1.20.2"
+  }
+}
